@@ -1,1 +1,2 @@
-# EKS-DEMO
+# EKS-Terraform-Jenkins
+EKS-Terraform-Jenkins
